@@ -42,7 +42,6 @@ URLs:
     Frontend: https://noteswebsite-notepal-frontend.onrender.com
 
     Backend: https://noteswebsite-notepal-backend.onrender.com
-    MySql: mysql://root:JhTWecnnrUCxZElvTwbHlqRNUcIovjOs@hopper.proxy.rlwy.net:22175/railway
 
 Test account:
     email: testaccount@gmail.com
