@@ -1,5 +1,6 @@
 # App's purpose
-    To provide a secure and responsive note taking app that demonstrates fullstack skills (React, Node.js, Express, Prisma, MySQL) including authentication, CRUD operations, and deployment. It was built specifically for Chingu's fullstack Voyage 56 solo project submission.
+    To provide a secure and responsive note taking app that demonstrates fullstack skills (React, Node.js Express, Prisma, MySQL) including authentication, CRUD operations, and deployment. It was built
+    specifically for Chingu's fullstack Voyage 56 solo project submission.
 
 # Major functions
     - User registration, login, logout (JWT-based)
