@@ -1,6 +1,7 @@
 # App's purpose
     To provide a secure and responsive note taking app that demonstrates fullstack skills (React, Node.js Express, Prisma, MySQL) including authentication, CRUD operations, and deployment. It was built
     specifically for Chingu's fullstack Voyage 56 solo project submission.
+    (Please make sure to check "Note" section at the end.)
 
 # Major functions
     - User registration, login, logout (JWT-based)
@@ -48,5 +49,4 @@ Test account:
     password: Testing@!01
 
 # Note
-The first request on the website may take up to 1 minute and after that it will speed up. This is according
-to render's free plan where inactive websites first take some time to load and then fasten up.
+The first request on the website may take up to 1 minute and after that it will speed up. This could mean issues such as not being able to log in with the provided test account, not being able to create a new account or even loading notes. To solve the issue, simply make a request and wait 1 minute the first time after which the same request won't be invalid anymore moving forward. This is according to render's free plan where inactive websites first take some time to load and then fasten up.
