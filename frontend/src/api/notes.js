@@ -1,6 +1,6 @@
 import axios from "./axios";
 
-const BASE = "http://localhost:5000/api/notes";
+const BASE = `${import.meta.env.VITE_BACKEND_URL}/api/notes`;
 
 export const getNotes = () => axios.get(BASE);
 export const getNote = (id) => axios.get(`${BASE}/${id}`);
