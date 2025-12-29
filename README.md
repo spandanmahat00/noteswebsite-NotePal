@@ -48,4 +48,4 @@ Test account:
     password: Testing@!01
 
 # Note
-The first request on the website may take up to 1 minute and after that it will speed up. To solve the issue, simply make a request and wait 1 minute the first time after which the same request won't be invalid moving forward. This is according to render's free plan where inactive websites first take some time to load.
+The first request on the website may take up to 1 minute and after that it will speed up. To solve the issue, simply make a request and wait 1 minute the first time. This is according to render's free plan where inactive websites first take some time to load.
